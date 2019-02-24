@@ -6,5 +6,9 @@
 Heroku link:
 https://projectoarep.herokuapp.com/index.html
 
+NOTA:
+El servidor web con imagenes,css,html y javascript funciona perfectamente en heroku,heroku local web y corriendolo desde el IDE
+El servidor con las peticiones como parametros es decir con las anotaciones solo funciona desde heroku local web y corriendolo desde el IDE(NOSE PORQUE!!)
+
 Made by:
 Andres Florez
